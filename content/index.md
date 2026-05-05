@@ -1,6 +1,15 @@
 ---
-title: Welcome to Quartz
+title: 🗂️ My Digital Garden Index
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# My Digital Garden
+
+오늘 진행한 **Quartz** 설정 및 **GitHub** 연동 작업에 대한 기록입니다.
+
+## 🚀 빠른 바로가기
+- [[Environment-Setup|💻 로컬 환경 설정]]
+- [[Quartz-Configuration|💎 Quartz 설정 및 초기화]]
+- [[GitHub-Integration|🐙 GitHub 연동 및 인증]]
+
+---
+*Last updated: 2026-05-02*
